@@ -1,1 +1,5 @@
-update app
+{
+  "version": 2,
+  "apk": "https://github.com/cvthuong921331040253-hub/update-app/releases/download/v1.0/VHKT.GL.apk",
+  "force": true
+}
